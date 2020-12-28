@@ -1,0 +1,25 @@
+.footerBlock {
+    background-color: rosybrown;
+    height: 30vh;
+}
+
+.footer {
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    background-color: #b59ad9;
+}
+
+.links a {
+    background-color: aqua;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 5px;
+    width: 70px;
+    height: 35px;
+}

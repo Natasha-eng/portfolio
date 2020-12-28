@@ -1,0 +1,25 @@
+.contactsBlock {
+    background-color: lightsteelblue;
+    height: 70vh;
+}
+
+.contacts {
+    flex-direction: column;
+    justify-content: space-around;
+    border: 1px solid;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 50%;
+    height: 240px;
+    border: 1px solid;
+}
+
+.contactButton {
+    padding: 10px 15px;
+    border: 1px solid;
+    text-decoration: none;
+}
